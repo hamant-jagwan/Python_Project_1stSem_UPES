@@ -9,3 +9,5 @@
 
 Now, keep you belt tight to deep down in this data analysis.
 
+data Loading : I am loading data directly from github using this link `https://raw.githubusercontent.com/hamant-jagwan/Python_Project_1stSem_UPES/refs/heads/main/Red_Wine_Quality.csv`
+and use pandas to read this csv file
