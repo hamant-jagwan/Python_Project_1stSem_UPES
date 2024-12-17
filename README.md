@@ -16,7 +16,8 @@ and use pandas to read this csv file
 # Red Wine Quality Analysis
 
 This project involves analyzing the red wine quality dataset using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The analysis includes data exploration, cleaning, and visualization to understand the relationships between different chemical properties and wine quality.
-Link: [text](https://nbviewer.org/github/hamant-jagwan/Python_Project_1stSem_UPES/blob/main/WineAnalysis.ipynb)
+
+## LINK: [Project Link](https://nbviewer.org/github/hamant-jagwan/Python_Project_1stSem_UPES/blob/main/WineAnalysis.ipynb)
 
 ## Steps
 
